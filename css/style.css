@@ -1,0 +1,25 @@
+.container {
+    display: flex;
+    width: 200px;
+    height: 60px;
+    margin: 0 auto;
+    font-family: sans-serif;
+    font-weight: bold;
+    background: linear-gradient(to right, #4D69BB, #3D56A1);
+    color: white;
+}
+
+.container i{
+    font-size: 50px;
+    margin-left: 4%;
+    width: 30%;
+}
+
+.container p{
+    margin: 0;
+    font-size: 30px;
+    margin-right: 8%;
+    margin-top: 3%;
+    width: 70%;
+
+}
